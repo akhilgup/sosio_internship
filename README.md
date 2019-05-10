@@ -11,19 +11,19 @@ Stock Prediction Task for Sosio
 
 ## Normal mid price of stocks with respect to time
 
-![Graph](https://github.com/akhilgup/nitiayog_5/raw/master/Figure_1.png)
+![Graph](https://github.com/akhilgup/sosio_internship/blob/master/mid_price_vs_date.png)
 
 ## Comparision of prediction with standard avaerage
 
 - Loss - 0.005
 
-![Graph](https://github.com/akhilgup/nitiayog_5/raw/master/Figure_1.png)
+![Graph](https://github.com/akhilgup/sosio_internship/blob/master/standard_average.png)
 
 ## Comparision of prediction with exponential moving average
 
 - Loss - 0.002
 
-![Graph](https://github.com/akhilgup/nitiayog_5/raw/master/Figure_1.png)
+![Graph](https://github.com/akhilgup/sosio_internship/blob/master/expo_moving_average.png)
 
 
 ## LSTM predictions
@@ -32,4 +32,4 @@ Stock Prediction Task for Sosio
 
 - The second subplot is the best predictions over time. 
 
-![Graph](https://github.com/akhilgup/nitiayog_5/raw/master/Figure_1.png)
+![Graph](https://github.com/akhilgup/sosio_internship/blob/master/expo_moving_average.png)
