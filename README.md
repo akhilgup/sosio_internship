@@ -32,4 +32,4 @@ Stock Prediction Task for Sosio
 
 - The second subplot is the best predictions over time. 
 
-![Graph](https://github.com/akhilgup/sosio_internship/blob/master/expo_moving_average.png)
+![Graph](https://github.com/akhilgup/sosio_internship/blob/master/LSTM_predictions.png)
